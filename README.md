@@ -1,2 +1,3 @@
-# manufacturing
-projects/notes mostly consisting of design/manufacturing
+# Manufacturing
+
+Projects/notes mostly consisting of design/manufacturing
