@@ -9,7 +9,7 @@ Held together by 3 rivets and foam spacer
 - Size: 5mm diamter, 12mm lenght
 - Foam Spacer: 2.5mm long, 14mm outer diameter
 - Inner Spacing between pucks: 5mm
-- Puck Diamter: 76mm
+- Puck Diameter: 76mm
 - Rivets distance from outer edge: 14mm
 - Each puck thickness: 11mm
 - Puck thickness countersink for rivets: 5.5mm
