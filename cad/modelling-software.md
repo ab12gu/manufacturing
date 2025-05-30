@@ -31,3 +31,5 @@ Siemens NX
 
 - https://plm.sw.siemens.com/en-US/nx/student-software/
 - there is a student trial... only 1 year trial
+
+https://www.tinkercad.com/
