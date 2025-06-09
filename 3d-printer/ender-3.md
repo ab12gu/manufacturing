@@ -35,16 +35,6 @@
   - 1kg, $13 [amazon](https://www.amazon.com/dp/B085NVCSWW)
 
 
-## Software
-
-Slicing software
-
-- https://github.com/prusa3d/PrusaSlicer
-    - Most software for 3d printing is just a fork of this software (including bambu)
-    - Build off of https://github.com/slic3r/Slic3r
-    - Using prusaslicer for bambu will just have some features not included like flow optimization and vibration reduction, but still should work
-- https://github.com/Ultimaker/Cura
-- https://github.com/CrealityOfficial/CrealityPrint (fork of cura)
 
 ## Discussions
 
