@@ -4,17 +4,17 @@
 
 - [ytb - How to Repair a Hole in a Sock with Darning - 5min](https://www.youtube.com/watch?v=yi_J8YeQkww)
 
-Materials
+### Materials
 
 - Damaged sock... obvi
-- Darning Egg or Ball (wooden backing to go inside sock)
+- Darning Egg or Ball (wooden backing to go inside sock)... overkill
 - Textured overlock thread or thin yarn
 - long needle
 
-Or, you just really need any thread and needle and it should work
+<b> Or, you just really need any thread and needle and it should work </b>
 
 
-Steps:
+### Steps
 
 - Insert darning egg
 - Cut out loose fibers
@@ -22,8 +22,10 @@ Steps:
 - And then cross over w/ running stiches perpendicular to above
 - Just cut the thread, don't tie ends, will just break...
 
-![alt text](image-1.png)
+### Images
 
-![alt text](image-4.png)
+![alt text](images/hole.png)
 
-![alt text](image-2.png)
+![alt text](images/cross-thread.png)
+
+![alt text](images/finish-thread.png)
