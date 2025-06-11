@@ -4,7 +4,6 @@ Regular On-Ice pucks
 
 - Uses silk screening to have logo stay on puck for a long time
 
-
 Off-ice pucks
 
 - https://greenbiscuit.com/product/original-biscuit/

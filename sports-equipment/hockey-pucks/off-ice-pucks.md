@@ -2,6 +2,23 @@
 
 ## Hockey Off-Ice Pucks
 
+Patent: https://patents.google.com/patent/US5792012A/en
+
+-  three inches in diameter by one inch high (same as ice puck)
+-  Improved performance by slightly increasing the diameter to 3.2 inches
+    - and slightly reducing the height to 0.9 inches
+- 
+
+
+
+
+Filed in 1997; Expired in 2017
+
+![alt text](IMG_5441.jpeg){width="400"}
+
+![alt text](IMG_5443.jpeg){width="400"}
+
+
 - https://greenbiscuit.com/
 
 Held together by 3 rivets and foam spacer
@@ -48,9 +65,19 @@ https://www.harborfreight.com/90-piece-pom-rivet-assortment-67611.html
 
 ## Videos
 
+- Good rivet tutorial
+    - https://www.youtube.com/watch?v=ZyWqWJKAV6k
+
 - [ytb -  How To Use A Riveter or Rivet Gun - Ace Hardware - 4min](https://www.youtube.com/watch?v=yW3k3_sbkyc)
 - [ytb - push rivet - 1min](https://www.youtube.com/watch?v=2uxTrkzf6SE)
 - [ytb -  A Step-By-Step Guide on How to Use POP Rivets | Fasteners 101 - 14min](https://www.youtube.com/watch?v=1G8lGECOe1U) 
   -  Most in-depth video
 
 ## Citations
+
+
+## Thoughts
+
+- Can I just use rivets with threads and put a bolt through?
+- https://www.youtube.com/shorts/RAVH4-h1cPA
+- So then we can re-use half when half breaks
