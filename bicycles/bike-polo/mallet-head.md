@@ -1,10 +1,20 @@
 # Mallet Head
 
+## Media
+
+<div style="display: flex; justify-content: center;">        
+  <blockquote class="instagram-media" 
+    data-instgrm-permalink="https://www.instagram.com/reel/DIN23ZpupiH/?igsh=MzFoeWlpcm15cG1o" 
+    data-instgrm-version="14" 
+    style="max-width:540px; margin:auto; text-align: center;">
+    <a href="https://www.instagram.com/reel/DIN23ZpupiH/?igsh=MzFoeWlpcm15cG1o" target="_blank">View this post on Instagram</a>
+  </blockquote>
+  <script async src="https://www.instagram.com/embed.js"></script>
+</div
+
 ## Material
 
 [Ultra-high-molecular-weight polyethylene (UHMWPE, UHMW)](https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene)
-
-
 
 ## Size
 
