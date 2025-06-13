@@ -7,9 +7,9 @@ Patent: https://patents.google.com/patent/US5792012A/en
 -  three inches in diameter by one inch high (same as ice puck)
 -  Improved performance by slightly increasing the diameter to 3.2 inches
     - and slightly reducing the height to 0.9 inches
-- 
-
-
+- tubular rivets require roughly ¼ the force of solid rivets.
+- Semi-tubular rivets are often the preferred rivet style for joints where movement is required (pivot points)
+    - because the rivet material only swells at the tail. 
 
 
 Filed in 1997; Expired in 2017
@@ -17,6 +17,8 @@ Filed in 1997; Expired in 2017
 ![alt text](IMG_5441.jpeg){width="400"}
 
 ![alt text](IMG_5443.jpeg){width="400"}
+
+![alt text](image.png){width="400"}
 
 
 - https://greenbiscuit.com/
@@ -65,16 +67,20 @@ https://www.harborfreight.com/90-piece-pom-rivet-assortment-67611.html
 
 ## Videos
 
-- Good rivet tutorial
-    - https://www.youtube.com/watch?v=ZyWqWJKAV6k
-
+- [Good rivet tutorial](https://www.youtube.com/watch?v=ZyWqWJKAV6k)
+- [Punch method - rivets](https://www.youtube.com/watch?v=uh4oUxCzVbw)
+    - https://www.youtube.com/shorts/fKvkP3poVog
 - [ytb -  How To Use A Riveter or Rivet Gun - Ace Hardware - 4min](https://www.youtube.com/watch?v=yW3k3_sbkyc)
 - [ytb - push rivet - 1min](https://www.youtube.com/watch?v=2uxTrkzf6SE)
 - [ytb -  A Step-By-Step Guide on How to Use POP Rivets | Fasteners 101 - 14min](https://www.youtube.com/watch?v=1G8lGECOe1U) 
-  -  Most in-depth video
+    -  Most in-depth video
+- [Semi Tubular Rivet but use solid rivet to seal](https://www.youtube.com/shorts/ZOO4hiNArGI)
+- [Semi Tubular Rivet diagram](https://www.youtube.com/watch?v=LKWtTZmXQ90)
+- [Pop Rivet diagram](https://www.youtube.com/watch?v=9aoXmzdSf_I)
 
 ## Citations
 
+- https://www.rivetsonline.com/rivets/semi-tubular-rivets
 
 ## Thoughts
 
