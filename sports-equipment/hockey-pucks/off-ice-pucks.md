@@ -25,13 +25,16 @@ Semi-tubular rivets (also known as tubular rivets) are essentially the same as s
 
 - This hole causes the tubular portion of the rivet (around the hole) to roll outward with force
 - This reduces the amount of force needed for installation—tubular rivets require roughly ¼ the force of solid rivets.
+- [ytb short - pop rivet inside tubular rivet](https://www.youtube.com/shorts/3JCqJCKxUUg)
+- [ytb short - semitubular punch install](https://www.youtube.com/shorts/fKvkP3poVog)
+- [ytb short - cross-section video punch](https://www.youtube.com/watch?v=I40ISVkF08s)
 
 ![alt text](images/puck-rivets.png){width="280"}
 ![alt text](images/semi-tubular-rivets.png){width="300"}
 
 Held together by 3 rivets and foam spacer
 
-- Size: 5mm diamter, 12mm lenght
+- Size: 5mm diameter, 12mm length
 - Foam Spacer: 2.5mm long, 14mm outer diameter
 - Inner Spacing between pucks: 5mm
 - Puck Diameter: 76mm
@@ -41,6 +44,9 @@ Held together by 3 rivets and foam spacer
 - Original Green cost: $14
 - 4.6 oz
 
+
+![alt text](images/punch.png){width="280"}
+
 ## Purchase
 
 
@@ -48,26 +54,17 @@ Held together by 3 rivets and foam spacer
 
 #### Purchasable
 
-Arrow 3/16 in. D X 1/2 in. Aluminum Long Rivets Silver 50 pk
-
-- $10.49
-- https://www.acehardware.com/departments/tools/fastening-tools/rivets/2496925
-
-(200Pcs) 3/16"x5/8" stainless steel blind pro Rivets,Steel handle and stainless steel mandrel 
-
-- 15% $16.99 
-- https://www.amazon.com/Wensilon-200Pcs-Aluminum-4-8X16mm-Mandrel/dp/B0C2KF5KL4
-
-https://www.harborfreight.com/90-piece-pom-rivet-assortment-67611.html
+- Arrow 3/16 in. D X 1/2 in. Aluminum Long Rivets Silver 50 pk
+    - $10.49 - [Ace Hardware](https://www.acehardware.com/departments/tools/fastening-tools/rivets/2496925)
+- (200Pcs) 3/16"x5/8" stainless steel blind pro Rivets,Steel handle and stainless steel mandrel 
+    - 15% $16.99 [amazon](https://www.amazon.com/Wensilon-200Pcs-Aluminum-4-8X16mm-Mandrel/dp/B0C2KF5KL4)
+- [harbor freight](https://www.harborfreight.com/90-piece-pom-rivet-assortment-67611.html)
 
 ### Rivet Guns
 
-- https://www.harborfreight.com/45-piece-threaded-insert-riveter-kit-1210.html 
-    - $20
-- https://www.harborfreight.com/11-in-swivel-head-hand-riveter-63396.html
-    - $10
-- https://www.harborfreight.com/hand-riveter-with-40-industrial-strength-poly-rivets-97757.html
-    - $17, weird design
+- [Harbor Freight - $20](https://www.harborfreight.com/45-piece-threaded-insert-riveter-kit-1210.html)
+- [Harbor Freight - $10](https://www.harborfreight.com/11-in-swivel-head-hand-riveter-63396.html)
+- [Harbor Freight - $17, weird design](https://www.harborfreight.com/hand-riveter-with-40-industrial-strength-poly-rivets-97757.html)
 
 ## Videos
 
