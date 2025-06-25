@@ -1,27 +1,33 @@
 # Rivets
 
 ## Hockey Off-Ice Pucks
+ 
+[Patent US5792012A](https://patents.google.com/patent/US5792012A/en)
 
-Patent: https://patents.google.com/patent/US5792012A/en
+[Green Biscuit](https://greenbiscuit.com/product/original-biscuit/) patent number written on their original green pucks: 
+<br>
+Filed in 1997; Expired in 2017
 
--  three inches in diameter by one inch high (same as ice puck)
--  Improved performance by slightly increasing the diameter to 3.2 inches
+- three inches in diameter by one inch high (same as ice puck)
+- improved performance by slightly increasing the diameter to 3.2 inches
     - and slightly reducing the height to 0.9 inches
-- tubular rivets require roughly ¼ the force of solid rivets.
-- Semi-tubular rivets are often the preferred rivet style for joints where movement is required (pivot points)
+- semi-tubular rivets are often the preferred rivet style for joints where movement is required (pivot points)
     - because the rivet material only swells at the tail. 
 
 
-Filed in 1997; Expired in 2017
 
-![alt text](IMG_5441.jpeg){width="400"}
+![alt text](images/IMG_5441.jpeg){width="350"}
+![alt text](images/IMG_5443.jpeg){width="350"}
 
-![alt text](IMG_5443.jpeg){width="400"}
+#### Semi Tubular Rivets
 
-![alt text](image.png){width="400"}
+Semi-tubular rivets (also known as tubular rivets) are essentially the same as solid rivets, but with a shallow hole at the tip, opposite the head. 
 
+- This hole causes the tubular portion of the rivet (around the hole) to roll outward with force
+- This reduces the amount of force needed for installation—tubular rivets require roughly ¼ the force of solid rivets.
 
-- https://greenbiscuit.com/
+![alt text](images/puck-rivets.png){width="280"}
+![alt text](images/semi-tubular-rivets.png){width="300"}
 
 Held together by 3 rivets and foam spacer
 
@@ -32,17 +38,15 @@ Held together by 3 rivets and foam spacer
 - Rivets distance from outer edge: 14mm
 - Each puck thickness: 11mm
 - Puck thickness countersink for rivets: 5.5mm
-
-https://greenbiscuit.com/product/original-biscuit/
-
-Original Green cost: $14
-
+- Original Green cost: $14
 - 4.6 oz
 
 ## Purchase
 
 
 ### Rivets
+
+#### Purchasable
 
 Arrow 3/16 in. D X 1/2 in. Aluminum Long Rivets Silver 50 pk
 
